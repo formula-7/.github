@@ -4,4 +4,4 @@
 
 - ### Exercícios da matéria Ciência de Dados com o Prof. Manseira
 
-![Mansenna](Mansenna.png)
+![Mansenna](https://raw.githubusercontent.com/formula-7/.github/refs/heads/main/Mansenna.png)
