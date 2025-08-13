@@ -1,6 +1,7 @@
 # Bem-vindo à Organização Formula-7 🏎️🏎️🏎️
 
 - ### Exercícios da matéria Ciência de Dados com o Prof. Manseira
+![Mansenna](https://raw.githubusercontent.com/formula-7/.github/refs/heads/main/Mansenna.png)
 
 ## Sobre nós
 
@@ -13,4 +14,3 @@ A **Formula-7** é uma organização dedicada à criação de soluções avança
 
 Siga-nos, colabore e faça parte da comunidade Formula-7!
 
-![Mansenna](https://raw.githubusercontent.com/formula-7/.github/refs/heads/main/Mansenna.png)
